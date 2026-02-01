@@ -1,0 +1,14 @@
+# ==============================
+# Dependencies (node modules anywhere)
+# ==============================
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+frontend/job-portal/node_modules/
+
+# ==============================
+# Environment Variables (Secrets)
+# ==============================
+.env
+backend/.env
+frontend/job-portal/.env
